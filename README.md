@@ -1,2 +1,2 @@
 # technojam-task
-this repo contains task of technojam auditions
+This **repo** contains task of **technojam** _auditions_

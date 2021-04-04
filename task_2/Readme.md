@@ -8,4 +8,7 @@ and **markdown language** as i dont much about gihtub before , i just use github
 <br></br>
 ![image](https://user-images.githubusercontent.com/81116984/113518261-c490da00-95a2-11eb-8d37-0be7fcf6eb54.png)
 
+<br></br>
+***i deleted that id because i was warned by github some bots stealed my intel***
+
 

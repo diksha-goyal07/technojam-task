@@ -5,9 +5,10 @@ This **repo** contains task of **technojam** _auditions_
 _ _ _
 ___
 1._task3_
+2.<br></br>
 ***Competitive Programming (easy)
 ● Complete all the 5 questions from this repository.
-[click here for questions](https://github.com/shreyanshdeep/TechnoJam-CP-Task/tree/main/Easy)
+[click here for questions](https://github.com/shreyanshdeep/TechnoJam-CP-Task/tree/main/Easy)***
 ___
 2._task4_
 ___

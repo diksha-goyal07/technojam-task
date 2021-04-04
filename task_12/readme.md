@@ -12,12 +12,18 @@ ___
 ***i faced problem wrting php script because i dont know _php_*** 
 <br></br>
 ***I got to learn basic syntax of _php_***
+___
+- - -
 
-_i have used a basic php script_
+***_i have used a basic php script_***
 ## what task my php script is doing
+---
 ***it sets header for redirect to facebook (?)
+<br></br>
 then logs everything in post request
+<br></br>
 adds newline between each thing
+<br></br>
 adds extra newline***
 
 

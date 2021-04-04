@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Technojam Word Counter</title>
+
+</head>
+
+<body>
+
+
+  <h1> <span style="color:purple;font-weight:bold">Techonjam Word Counter: <span id="count">0</span></h1>
+
+
+
+
+<style> 
+body
+{
+ height: 500px;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to left,#e83e8c , 	#007bff);
+}
+::placeholder {
+  color: #007bff;
+text-align:center;
+  
+}
+
+h1{
+ text-align:center;
+}
+div {
+}
+
+
+</style>
+<div align="center">
+ <textarea  
+ 
+id="input" rows="25" cols="40" placeholder="Express Your Thoughts Here" style="background-color: #9753b4;"  style="border:#1DB954;" autofocus ></textarea>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<script >var count = document.getElementById('count');
+var input = document.getElementById('input');
+
+
+input.addEventListener('keyup', function(e){
+  wordCounter(e.target.value);
+});
+function wordCounter(text) {
+  var text = input.value;
+  var wordCount = 0;
+  for (var i = 0; i <= text.length; i++) {
+    if (text.charAt(i) == ' ') {
+      wordCount++;
+    }
+  }
+  count.innerText = wordCount;
+}</script>
+
+
+
+</body>
+</html>

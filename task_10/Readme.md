@@ -11,6 +11,7 @@
   background-color: red; /* For browsers that do not support gradients */
   background-image: linear-gradient(red, yellow);
 }
-</style>```
+</style>
+```
 
 [Reference](https://www.w3schools.com/)

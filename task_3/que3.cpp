@@ -1,8 +1,5 @@
 #include <bits/stdc++.h>
 int main() {
-  int t;
-  std::cin >> t;
-  while (t--) {
     int n;
     std::cin >> n;
     int arr[n];
@@ -36,5 +33,5 @@ int main() {
       }
     }
     std::cout << counteven << std::endl;
-  }
+  
 }

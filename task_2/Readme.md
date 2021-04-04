@@ -6,5 +6,6 @@ and **markdown language** as i dont much about gihtub before , i just use github
 ***[click on this to see my ***PR***](https://github.com/technojam/Hacktoberfest-2020-Baby/pull/191)***
 
 <br></br>
-![Markdown Logo](file:///C:/Users/hp/OneDrive/Desktop/task_2/Screenshot%20(101).png)
+![image](https://user-images.githubusercontent.com/81116984/113518261-c490da00-95a2-11eb-8d37-0be7fcf6eb54.png)
+
 

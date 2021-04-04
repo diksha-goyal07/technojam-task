@@ -13,5 +13,12 @@ ___
 <br></br>
 ***I got to learn basic syntax of _php_***
 
+_i have used a basic php script_
+## what task my php script is doing
+***it sets header for redirect to facebook (?)
+then logs everything in post request
+adds newline between each thing
+adds extra newline***
+
 
 
